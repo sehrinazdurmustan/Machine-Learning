@@ -1,6 +1,6 @@
 # Machine Learning Notebooks
 
-Bu depo, makine öğrenmesine giriş ve temel algoritmaların uygulamalarını içeren Jupyter Notebook örnekleri barındırır. Python programlama dili ve yaygın veri bilimi kütüphaneleri kullanılarak hazırlanmıştır. Özellikle eğitim, araştırma ve kendi projelerinizde kullanmanız için sade ve anlaşılır örnekler sunulmaktadır.
+Bu repo, makine öğrenmesine giriş ve temel algoritmaların uygulamalarını içeren Jupyter Notebook örnekleri barındırır. Python programlama dili ve yaygın veri bilimi kütüphaneleri kullanılarak hazırlanmıştır. Özellikle eğitim, araştırma ve kendi projelerinizde kullanmanız için sade ve anlaşılır örnekler sunulmaktadır.
 
 ## İçerik
 
